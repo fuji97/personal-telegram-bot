@@ -15,6 +15,7 @@
 # You should have received a copy of the GNU General Public License
 # along with python-telegram-bot-openshift.  If not, see <http://www.gnu.org/licenses/>.
 
+import os
 import logging
 from queue import Queue
 from threading import Thread
